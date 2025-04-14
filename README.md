@@ -8,6 +8,20 @@ Our Roo app is designed to showcase the capabilities of the Roo framework, with 
 
 ## Steps to Get Started
 
+### Option 1: Using roo-init command (Recommended)
+
+1. Install the Roo Code extension to your VS Code
+2. Add your API key for OpenAI, Claude, AWS Bedrock, or any available supported API to Roo Code (Claude 3-7 Sonnet is currently the best AI model for Roo)
+3. Open Roo Code and type the command: `roo-init`
+4. Follow the guided initialization process to set up your project:
+   - Provide a brief overview of your project
+   - Define your frontend stack preferences
+   - Define your backend stack preferences
+   - Define your database stack preferences
+5. Continue the conversation with Roo to develop your application based on your project requirements
+
+### Option 2: Manual Initialization
+
 1. Install the Roo Code extension to your VS Code
 2. Update the projectBrief.md file with your preferred stack
 3. Add your API key for OpenAI, Claude, AWS Bedrock, or any available supported API to Roo Code (Claude 3-7 Sonnet is currently the best AI model for Roo)
