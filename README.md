@@ -1,10 +1,4 @@
-## Roo Example Fullstack
-
-## Project Brief
-
-This is a full-stack example of an app powered by Roo.
-
-Our Roo app is designed to showcase the capabilities of the Roo framework, with a stack customized using GitHub Copilot. The application demonstrates how to effectively integrate frontend and backend components while leveraging modern development practices.
+# Roo Init Template
 
 ## Steps to Get Started
 
